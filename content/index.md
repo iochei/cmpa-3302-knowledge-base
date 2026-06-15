@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "# Bradley’s Knowledge Base"
 ---
 ## The index page
 

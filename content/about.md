@@ -1,1 +1,0 @@
-Hi, I'm Bradley, a student currently working through the CMPA 3302 coursework.

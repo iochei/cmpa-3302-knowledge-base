@@ -40,3 +40,5 @@ You can use any text editor capable of opening and editing Markdown files.
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
+## Related Categories
+This category relies on the [[design-principles/index|design-principles]] established in earlier modules to ensure consistent styling and layout across the site.

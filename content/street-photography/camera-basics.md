@@ -1,6 +1,6 @@
 ---
 title: "Camera Basics"
-date: 2023-10-27
+date: 2026-07-22
 draft: false
 ---
 
@@ -24,7 +24,7 @@ Mastering these manual settings is about freeing your mind. When you no longer h
 
 Here is a visual guide to complement the camera basics:
 
-![A street photography scene](https://iochei.github.io/cmpa-3302-knowledge-base/assets/photo-01.jpg)
+![Street scene](https://iochei.github.io/cmpa-3302-knowledge-base/assets/photo-01.jpg)
 
 ---
 

@@ -13,23 +13,6 @@ Mastering these manual settings is about freeing your mind. When you no longer h
 
 
 
-
-
----
-
-## Exercise Materials
-
-Here is a visual guide to complement the camera basics:
-
-![A street photography scene](https://iochei.github.io/cmpa-3302-knowledge-base/assets/photo-01.jpg)
-
----
-
-Review the attached PDF document for more depth on these techniques:
-
-<embed src="https://iochei.github.io/cmpa-3302-knowledge-base/assets/reading.pdf" type="application/pdf" width="100%" height="600px" />
-
-
 ---
 
 ## Exercise Materials
@@ -41,3 +24,5 @@ Here is the photo:
 
 Here is the reading:
 <embed src="https://iochei.github.io/cmpa-3302-knowledge-base/assets/reading.pdf" type="application/pdf" width="100%" height="600px" />
+
+

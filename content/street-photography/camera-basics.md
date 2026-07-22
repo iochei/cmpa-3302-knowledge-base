@@ -10,3 +10,21 @@ To capture fleeting, candid human moments in a busy urban environment, you must 
 > "Your eye must see a composition or an expression that life itself offers you, and you must know with intuition when to click the camera." — Henri Cartier-Bresson
 
 Mastering these manual settings is about freeing your mind. When you no longer have to consciously think about settings, you can focus entirely on [[composition-rules]]. This technical foundation is what allows you to react instantly to the unpredictable nature of street life. Furthermore, these settings change drastically depending on the [[lighting-conditions]] you encounter, so practice adjusting them by feel rather than looking at your screen.
+
+
+
+
+
+---
+
+## Exercise Materials
+
+Here is a visual guide to complement the camera basics:
+
+![A street photography scene](https://iochei.github.io/cmpa-3302-knowledge-base/assets/photo-01.jpg)
+
+---
+
+Review the attached PDF document for more depth on these techniques:
+
+<embed src="https://iochei.github.io/cmpa-3302-knowledge-base/assets/reading.pdf" type="application/pdf" width="100%" height="600px" />

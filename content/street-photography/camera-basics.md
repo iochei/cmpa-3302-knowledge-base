@@ -1,6 +1,9 @@
 ---
-title: Camera Basics
+title: "Camera Basics"
+date: 2023-10-27
+draft: false
 ---
+
 # Camera Basics
 
 To capture fleeting, candid human moments in a busy urban environment, you must move beyond "Auto" mode and master the exposure triangle: Aperture, Shutter Speed, and ISO. These three pillars dictate not only the brightness of your image but also the narrative quality of the final shot.
@@ -21,7 +24,7 @@ Mastering these manual settings is about freeing your mind. When you no longer h
 
 Here is a visual guide to complement the camera basics:
 
-![A black and white street photography scene showing children and adults on a city street.](https://iochei.github.io/cmpa-3302-knowledge-base/assets/photo-01.jpg)
+![A street photography scene](https://iochei.github.io/cmpa-3302-knowledge-base/assets/photo-01.jpg)
 
 ---
 

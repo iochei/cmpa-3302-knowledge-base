@@ -4,8 +4,8 @@ Here is an example of a candid street photograph:
 
 ***
 
-For further reading on the ethics of the genre, please review this document:
+### **Required Reading on Ethics & Approach:**
 
-> [!info] PDF Download
-> Click the link below to download the reference guide.
-> <a href="assets/street-photography-history.pdf" download="street-photography-history.pdf">**Download PDF: Street Photography History & Ethics**</a>
+Due to technical issues with the original PDF source file, please review this alternative guide on the philosophy and ethics of documentary practice from a reputable source:
+
+> **[Click Here to Read: The Post-Documentary Photographers Who Care About the World (Aperture Foundation)](https://aperture.org/editorial/the-post-documentary-photographers-who-care-about-the-world/)**

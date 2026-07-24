@@ -8,4 +8,4 @@ For further reading on the ethics of the genre, please review this document:
 
 > [!info] PDF Download
 > Click the link below to download the reference guide.
-> **[Download PDF: Street Photography History & Ethics](assets/street-photography-history.pdf)**
+> <a href="assets/street-photography-history.pdf" download="street-photography-history.pdf">**Download PDF: Street Photography History & Ethics**</a>
